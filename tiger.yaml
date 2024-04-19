@@ -1,6 +1,11 @@
 team: Tigers
 
+<<<<<<< HEAD
 manager: Deborach
+=======
+manager: George
+coach: Grace
+>>>>>>> fcb48b9 (Add Coach Grace to Tigers)
 
 members:
 - Linda
