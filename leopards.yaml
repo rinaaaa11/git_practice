@@ -1,7 +1,11 @@
 team: Leopards
 
 manager: Nora
+<<<<<<< HEAD
 coach: Melissa
+=======
+coach: Oscar
+>>>>>>> f557290 (Add Coach Oscar to Leopards)
 
 members:
 - Linda
