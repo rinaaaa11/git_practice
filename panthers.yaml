@@ -1,7 +1,11 @@
 team: Panthers
 
 manager: Sebastian
+<<<<<<< HEAD
 coach: Raymond
+=======
+coach: Teddy
+>>>>>>> 79a623a (Add Coach Teddy to Panthers)
 
 members:
 - Violet
